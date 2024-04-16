@@ -1,0 +1,1 @@
+Hi, this is my project on FIFA Case Study using Statistics and Exploratory Data Analysis (EDA).
